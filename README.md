@@ -1,1 +1,1 @@
-# python-in-pandas
+# pandas-in-python
